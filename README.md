@@ -1,1 +1,1 @@
-# HelloPython
+# python study project
